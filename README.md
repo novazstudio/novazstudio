@@ -42,7 +42,6 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
 </p>
 
 ### Frameworks & Librerías
